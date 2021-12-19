@@ -1,4 +1,7 @@
-@Login
+#Author: Tek School - Ramez Hassan
+#Keywords Summary : Capstone Final Project Scenarios 
+#Feature: List of scenarios 2
+#Scenario: Business rule through list of steps with arguments.
 Feature: Home Page
 @Smoke2
 Scenario: User verify currency values change

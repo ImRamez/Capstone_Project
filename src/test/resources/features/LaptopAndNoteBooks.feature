@@ -1,8 +1,8 @@
 #Author: Tek School - Ramez Hassan
-#Keywords Summary :
-#Feature: List of scenarios.
+#Keywords Summary : Capstone Final Project Scenarios 
+#Feature: List of scenarios 4
 #Scenario: Business rule through list of steps with arguments.
-@Login
+
 Feature: Laptop & NoteBooks
 
   @Smoke2

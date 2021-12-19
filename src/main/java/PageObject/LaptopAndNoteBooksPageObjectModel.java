@@ -128,13 +128,7 @@ public class LaptopAndNoteBooksPageObjectModel extends CapstoneBase {
 		return UtilityClass.isElementDisplayed(cartEmptyElement);
 	}
 
-	@FindBy(xpath = "(//button[@type='button'])[17]")
-	private WebElement macBookAirCompareElement;
 
-	public void macBookAirCompareClick() {
-		macBookAirCompareElement.click();
-		UtilityClass.takeScreenShot();
-	}
 
 	@FindBy(xpath = "(//button[@type='button'])[14]")
 	private WebElement macBookCompareElement;
@@ -143,8 +137,15 @@ public class LaptopAndNoteBooksPageObjectModel extends CapstoneBase {
 		macBookCompareElement.click();
 		UtilityClass.takeScreenShot();
 	}
+	@FindBy(xpath = "//*[@id=\"content\"]/div[4]/div[3]/div/div[2]/div[2]/button[3]/i")
+	private WebElement macBookAirCompareElement;
 
-	@FindBy(xpath = "//div[contains(text(),' Success: You have added ')]")
+	public void macBookAirCompareClick() {
+		macBookAirCompareElement.click();
+		UtilityClass.takeScreenShot();
+	}
+
+	@FindBy(xpath = "//*[@id=\"product-category\"]/div[1]")
 	private WebElement compareSuccmsg;
 
 	public boolean compareSuccessText() {
@@ -160,7 +161,7 @@ public class LaptopAndNoteBooksPageObjectModel extends CapstoneBase {
 		UtilityClass.takeScreenShot();
 	}
 
-	@FindBy(xpath = "//h1[contains(text(),'Product Comparison')]")
+	@FindBy(xpath = "//*[@id=\"content\"]/h1")
 	private WebElement productComparsChartElement;
 
 	public boolean productCompareChart() {

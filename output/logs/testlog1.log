@@ -1,0 +1,110 @@
+2021-11-23 22:09:42,474 [main] INFO logger_file - User clicked on currency drop down menue
+2021-11-23 22:09:42,873 [main] INFO logger_file - User click on Eruo currency from drop down
+2021-11-23 22:09:48,976 [main] INFO logger_file - User clicked on shopping cart
+2021-12-09 21:43:08,432 [main] INFO logger_file - user clicked on MyAccount
+2021-12-09 21:43:08,674 [main] INFO logger_file - user clicked on Login Option
+2021-12-09 21:43:09,508 [main] INFO logger_file - user Enter eagles@tekschool.usand password eagles
+2021-12-09 21:43:10,338 [main] INFO logger_file - user clicked on Login Button
+2021-12-09 21:43:54,787 [main] INFO logger_file - user clicked on MyAccount
+2021-12-09 21:43:55,005 [main] INFO logger_file - user clicked on Login Option
+2021-12-09 21:43:55,916 [main] INFO logger_file - user Enter eagles@tekschool.usand password qand123
+2021-12-09 21:43:57,157 [main] INFO logger_file - user clicked on Login Button
+2021-12-09 21:43:57,217 [main] INFO logger_file - user is logged in to MyAccount Dashboard
+2021-12-09 21:47:17,490 [main] INFO logger_file - user clicked on MyAccount
+2021-12-09 21:47:17,708 [main] INFO logger_file - user clicked on Login Option
+2021-12-09 21:47:19,058 [main] INFO logger_file - user Enter eagles@tekschool.usand password qand123
+2021-12-09 21:47:19,795 [main] INFO logger_file - user clicked on Login Button
+2021-12-09 21:47:19,846 [main] INFO logger_file - user is logged in to MyAccount Dashboard
+2021-12-09 21:48:42,832 [main] INFO logger_file - user clicked on MyAccount
+2021-12-09 21:48:43,012 [main] INFO logger_file - user clicked on Login Option
+2021-12-09 21:48:43,860 [main] INFO logger_file - user Enter eagles@tekschool.usand password qand123
+2021-12-09 21:48:44,704 [main] INFO logger_file - user clicked on Login Button
+2021-12-09 21:48:44,738 [main] INFO logger_file - user is logged in to MyAccount Dashboard
+2021-12-09 22:08:20,946 [main] INFO logger_file - User clicked on currency drop down menue
+2021-12-09 22:08:21,256 [main] INFO logger_file - User click on Eruo currency from drop down
+2021-12-09 22:08:25,736 [main] INFO logger_file - User clicked on shopping cart
+2021-12-09 22:08:59,227 [main] INFO logger_file - Actual Title is matching with expected title
+2021-12-09 22:09:00,513 [main] INFO logger_file - user clicked on MyAccount
+2021-12-09 22:09:00,772 [main] INFO logger_file - user clicked on Login Option
+2021-12-09 22:09:01,489 [main] INFO logger_file - user Enter eagles@tekschool.usand password eagles
+2021-12-09 22:09:02,284 [main] INFO logger_file - user clicked on Login Button
+2021-12-09 22:12:46,464 [main] INFO logger_file - Actual Title is matching with expected title
+2021-12-09 22:12:47,611 [main] INFO logger_file - user clicked on MyAccount
+2021-12-09 22:12:47,820 [main] INFO logger_file - user clicked on Login Option
+2021-12-09 22:12:48,503 [main] INFO logger_file - user Enter eagles@tekschool.usand password eagles
+2021-12-09 22:12:49,254 [main] INFO logger_file - user clicked on Login Button
+2021-12-09 22:14:31,658 [main] INFO logger_file - User clicked on currency drop down menue
+2021-12-09 22:14:32,534 [main] INFO logger_file - User click on Eruo currency from drop down
+2021-12-09 22:14:36,181 [main] INFO logger_file - User clicked on shopping cart
+2021-12-09 22:15:07,805 [main] INFO logger_file - Actual Title is matching with expected title
+2021-12-09 22:15:08,860 [main] INFO logger_file - user clicked on MyAccount
+2021-12-09 22:15:09,089 [main] INFO logger_file - user clicked on Login Option
+2021-12-09 22:15:09,801 [main] INFO logger_file - user Enter eagles@tekschool.usand password qand123
+2021-12-09 22:15:10,702 [main] INFO logger_file - user clicked on Login Button
+2021-12-09 22:15:10,745 [main] INFO logger_file - user is logged in to MyAccount Dashboard
+2021-12-09 22:26:46,865 [main] INFO logger_file - Actual Title is matching with expected title
+2021-12-09 22:26:50,746 [main] INFO logger_file - User clicked on shopping cart
+2021-12-09 22:26:53,981 [main] INFO logger_file - Actual Title is matching with expected title
+2021-12-09 22:27:01,507 [main] INFO logger_file - Actual Title is matching with expected title
+2021-12-09 22:27:08,660 [main] INFO logger_file - Actual Title is matching with expected title
+2021-12-09 22:27:18,145 [main] INFO logger_file - Actual Title is matching with expected title
+2021-12-09 22:27:22,018 [main] INFO logger_file - Actual Title is matching with expected title
+2021-12-09 22:27:23,429 [main] INFO logger_file - user clicked on MyAccount
+2021-12-09 22:27:23,707 [main] INFO logger_file - user clicked on Login Option
+2021-12-09 22:27:24,757 [main] INFO logger_file - user Enter eagles@tekschool.usand password qand123
+2021-12-09 22:27:25,958 [main] INFO logger_file - user clicked on Login Button
+2021-12-09 22:27:25,999 [main] INFO logger_file - user is logged in to MyAccount Dashboard
+2021-12-09 22:28:59,977 [main] INFO logger_file - User clicked on currency drop down menue
+2021-12-09 22:29:00,358 [main] INFO logger_file - User click on Eruo currency from drop down
+2021-12-09 22:29:04,020 [main] INFO logger_file - User clicked on shopping cart
+2021-12-09 23:10:58,618 [main] INFO logger_file - User clicked on currency drop down menue
+2021-12-09 23:10:59,620 [main] INFO logger_file - User click on Eruo currency from drop down
+2021-12-09 23:11:03,561 [main] INFO logger_file - User clicked on shopping cart
+2021-12-17 21:04:30,671 [main] INFO logger_file - User clicked on currency drop down menue
+2021-12-17 21:04:31,839 [main] INFO logger_file - User click on Eruo currency from drop down
+2021-12-17 21:04:35,525 [main] INFO logger_file - User clicked on shopping cart
+2021-12-17 21:12:31,087 [main] INFO logger_file - User clicked on currency drop down menue
+2021-12-17 21:12:31,883 [main] INFO logger_file - User click on Eruo currency from drop down
+2021-12-17 21:12:36,029 [main] INFO logger_file - User clicked on shopping cart
+2021-12-18 00:46:18,206 [main] INFO logger_file - User clicked on currency drop down menue
+2021-12-18 00:46:18,502 [main] INFO logger_file - User click on Eruo currency from drop down
+2021-12-18 00:46:22,614 [main] INFO logger_file - User clicked on shopping cart
+2021-12-18 11:40:35,134 [main] INFO logger_file - user clicked on MyAccount
+2021-12-18 11:40:35,297 [main] INFO logger_file - user clicked on Login Option
+2021-12-18 11:40:35,921 [main] INFO logger_file - user Enter eagles@tekschool.usand password qand123
+2021-12-18 11:40:36,627 [main] INFO logger_file - user clicked on Login Button
+2021-12-18 11:41:40,910 [main] INFO logger_file - user clicked on MyAccount
+2021-12-18 11:41:41,068 [main] INFO logger_file - user clicked on Login Option
+2021-12-18 11:41:41,776 [main] INFO logger_file - user Enter eagles@tekschool.usand password qand123
+2021-12-18 11:41:42,571 [main] INFO logger_file - user clicked on Login Button
+2021-12-18 11:44:10,058 [main] INFO logger_file - user clicked on MyAccount
+2021-12-18 11:44:10,236 [main] INFO logger_file - user clicked on Login Option
+2021-12-18 11:44:10,929 [main] INFO logger_file - user Enter eagles@tekschool.usand password qand123
+2021-12-18 11:44:11,734 [main] INFO logger_file - user clicked on Login Button
+2021-12-18 11:59:32,580 [main] INFO logger_file - user clicked on MyAccount
+2021-12-18 11:59:32,781 [main] INFO logger_file - user clicked on Login Option
+2021-12-18 11:59:33,419 [main] INFO logger_file - user Enter eagles@tekschool.usand password qand123
+2021-12-18 11:59:34,238 [main] INFO logger_file - user clicked on Login Button
+2021-12-18 12:09:05,309 [main] INFO logger_file - user clicked on MyAccount
+2021-12-18 12:09:05,480 [main] INFO logger_file - user clicked on Login Option
+2021-12-18 12:09:06,105 [main] INFO logger_file - user Enter eagles@tekschool.usand password qand123
+2021-12-18 12:09:06,927 [main] INFO logger_file - user clicked on Login Button
+2021-12-18 12:10:44,503 [main] INFO logger_file - user clicked on MyAccount
+2021-12-18 12:10:44,681 [main] INFO logger_file - user clicked on Login Option
+2021-12-18 12:10:45,265 [main] INFO logger_file - user Enter eagles@tekschool.usand password qand123
+2021-12-18 12:10:47,192 [main] INFO logger_file - user clicked on Login Button
+2021-12-18 12:11:50,949 [main] INFO logger_file - user clicked on MyAccount
+2021-12-18 12:11:51,264 [main] INFO logger_file - user clicked on Login Option
+2021-12-18 12:11:51,858 [main] INFO logger_file - user Enter eagles@tekschool.usand password qand123
+2021-12-18 12:11:53,732 [main] INFO logger_file - user clicked on Login Button
+2021-12-18 12:15:08,038 [main] INFO logger_file - User clicked on currency drop down menue
+2021-12-18 12:15:08,470 [main] INFO logger_file - User click on Eruo currency from drop down
+2021-12-18 12:15:11,596 [main] INFO logger_file - User clicked on shopping cart
+2021-12-18 12:15:21,773 [main] INFO logger_file - user clicked on MyAccount
+2021-12-18 12:15:21,962 [main] INFO logger_file - user clicked on Login Option
+2021-12-18 12:15:22,555 [main] INFO logger_file - user Enter eagles@tekschool.usand password qand123
+2021-12-18 12:15:23,367 [main] INFO logger_file - user clicked on Login Button
+2021-12-18 12:15:29,457 [main] INFO logger_file - user clicked on MyAccount
+2021-12-18 12:15:31,990 [main] INFO logger_file - user clicked on MyAccount
+2021-12-18 12:15:35,941 [main] INFO logger_file - user clicked on MyAccount
+2021-12-18 12:15:39,678 [main] INFO logger_file - user clicked on MyAccount

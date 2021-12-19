@@ -1,4 +1,9 @@
 package stepDefinitions;
+/*
+ * Ramez Hassan
+ * Hawks Class 
+ * Year: 2021
+ */
 
 import core.CapstoneBase;
 import io.cucumber.java.After;
@@ -14,7 +19,7 @@ public class Initializer extends CapstoneBase{
 	}
 	@After
 	public void afterHooks(Scenario scenario) {
-		//closeBrowser();
+		closeBrowser();
 	}
 
 }

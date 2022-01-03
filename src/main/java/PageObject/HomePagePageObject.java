@@ -55,6 +55,7 @@ public class HomePagePageObject extends CapstoneBase {
 	@FindBy(xpath = "(//p[text()='Your shopping cart is empty!'])[2]")
 	private WebElement shopingCartMassage;
 	public boolean shoppingCartValidation() {
+		System.out.println("Shoping Cart is empty");
 		UtilityClass.takeScreenShot();
 		return UtilityClass.isElementDisplayed(shopingCartMassage);	
 	
